@@ -1,3 +1,3 @@
 # Hi, I'm Ernesto!
 ## 👨‍💻Cybersecurity Projects:
-- [Security Audit](https://github.com/CFSecAnalyst/SecurityAudit)
+<a href="[https://example.com](https://github.com/CFSecAnalyst/SecurityAudit)https://github.com/CFSecAnalyst/SecurityAudit" target="_blank">Security Audit</a>
