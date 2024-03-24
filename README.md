@@ -1,3 +1,3 @@
-# Hi, I'm Ernesto!
+# Hello I'm Ernesto, a cybersecurity analyst!
 ## 👨‍💻Cybersecurity Projects:
-<a href="[https://example.com](https://github.com/CFSecAnalyst/SecurityAudit)https://github.com/CFSecAnalyst/SecurityAudit" target="_blank">Security Audit</a>
+- [Security Audit📓](https://github.com/CFSecAnalyst/SecurityAudit)
